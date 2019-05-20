@@ -1,0 +1,156 @@
+
+  body {
+      margin: 0;
+      font-family: Arial;
+      background: #f3f4f8
+  }
+
+.Horizontal{
+  display: flex;
+  flex-direction: row;
+
+}
+.Vertical{
+  display: flex;
+  flex-direction: column;
+}
+.Center{
+  display: flex;
+  direction: Vertical;
+  vertical-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.Videos{
+  width: 550px;
+  height: auto;
+  padding: 10px;
+}
+
+.boton{
+  padding: 5px 25px;
+  background-color: #00a0e5;
+  border-radius: 4px;
+  border-color: white;
+  border: 1;
+  margin: 5px;
+  width: auto;
+  height: auto;
+  margin-left: 20px;
+  margin-top: 20px;
+  z-index: -5;
+}
+.boton a{
+  text-decoration: none;
+  text-decoration-line: none;
+  color: white;
+  width: 100%;
+  height: 100%;
+  text-emphasis: none;
+}
+
+.white-title {
+  color: white;
+  line-height: 1;
+  text-align: center;
+}
+
+.Header {
+  background-color: #00a0e5;
+  width: 100%;
+  height: 60px;
+  margin-bottom: 20px;
+}
+
+.Side-drawer{
+  width: 30%;
+  background-color: #00a0e5;
+  height: 100vh;
+  padding-top: 30px;
+  justify-content: center;
+  padding-left: 30px;
+}
+
+.Home{
+  width: 70%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#cuarto {
+  background-image: url('../../ImagenesCurso/background-cuarto.jpg');
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+  top: 0;
+  bottom: 0;
+  height: auto;
+  z-index: -10;
+}
+
+#quinto {
+  background-image: url('../../ImagenesCurso/background-quinto.jpg');
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+  top: 0;
+  bottom: 0;
+  height: auto;
+  z-index: -10;
+}
+
+#sexto {
+  background-image: url('../../ImagenesCurso/background-sexto.jpg');
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+  top: 0;
+  bottom: 0;
+  height: auto;
+  z-index: -10;
+}
+
+#septimo {
+  background-image: url('../../ImagenesCurso/background-septimo.jpg');
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+  top: 0;
+  bottom: 0;
+  height: auto;
+  z-index: -10;
+}
+
+#octavo {
+  background-image: url('../../ImagenesCurso/background-octavo.jpg');
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+  top: 0;
+  bottom: 0;
+  height: auto;
+  z-index: -10;
+}
+
+#noveno {
+  background-image: url('../../ImagenesCurso/background-noveno.jpg');
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+  top: 0;
+  bottom: 0;
+  height: auto;
+  z-index: -10;
+}
+
+/* #home {
+  background-image: url('../../ImagenesCurso/background-noveno.jpg');
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+  top: 0;
+  bottom: 0;
+  height: auto;
+  z-index: -10;
+} */

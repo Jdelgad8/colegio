@@ -1,0 +1,154 @@
+{
+    "categories": [
+      { 
+        "id": 1,
+        "description": "Grados ",
+        "title": "Descripciones",
+        "playlist": [
+          {
+            "title": "Cuarto Grado",
+            "author": "(8-9 Años)",
+            "type": "video",
+            "cover": "./ImagenesCurso/covers/Cuarto.jpg",
+            "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+            "id": 1
+          },
+          {
+            "title": "Qinto Grado",
+            "author": "(9-10 Años)",
+            "type": "video",
+            "cover": "./ImagenesCurso/covers/Quinto.jpg",
+            "src": "http://peach.themazzone.com/durian/movies/sintel-1024-surround.mp4",
+            "id": 2
+          },
+          {
+            "title": "Sexto Grado",
+            "author": "(10-11 Años)",
+            "type": "video",
+            "cover": "./ImagenesCurso/covers/sexto.jpg",
+            "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+            "id": 3
+          },
+          {
+            "title": "Septimo  Grado",
+            "author": "(11-12 Años)",
+            "type": "video",
+            "cover": "./ImagenesCurso/covers/Septimo.jpg",
+            "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+            "id": 4
+          },
+          {
+            "title": "Octavo Grado",
+            "author": "(12-13 Años)",
+            "type": "video",
+            "cover": "./ImagenesCurso/covers/Octavo.jpg",
+            "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+            "id": 5
+          },
+      {
+        "title": "Noveno",
+        "author": "(13-14 Años)",
+        "type": "video",
+        "cover": "./ImagenesCurso/covers/noveno.jpg",
+        "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+        "id": 6
+      }
+         
+        ]
+      },
+      {
+        "id": 2,
+        "description": "Grados",
+        "title": "Descripciones",
+        "playlist": [
+            {
+                "title": "Octavo Grado",
+                "author": "(12-13 Años)",
+                "type": "video",
+                "cover": "./ImagenesCurso/covers/Octavo.jpg",
+                "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+                "id": 1
+              },
+          {
+            "title": "Noveno",
+            "author": "(13-14 Años)",
+            "type": "video",
+            "cover": "./ImagenesCurso/covers/noveno.jpg",
+            "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+            "id": 2
+          },
+          {
+            "title": "Padres",
+            "author": "Encuesta",
+            "type": "video",
+            "cover": "./ImagenesCurso/covers/padres.jpg",
+            "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+            "id": 3
+          },
+          {
+            "title": "The social network",
+            "author": "The social network",
+            "type": "video",
+            "cover": "./images/covers/social.jpg",
+            "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+            "id": 4
+          },
+          {
+            "title": "No vaya a ser",
+            "author": "Pablo Alboran",
+            "type": "video",
+            "cover": "./images/covers/no-vaya-a-ser.jpg",
+            "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+            "id": 3
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "description": "Si no te queda de otra",
+        "title": "Regueton",
+        "playlist": [
+          {
+            "title": "Despacito",
+            "author": "Luis Fonsi",
+            "type": "video",
+            "cover": "./images/covers/despacito.jpg",
+            "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+            "id": 1
+          },
+          {
+            "title": "Echame la culpa",
+            "author": "Luis fonsi",
+            "type": "video",
+            "cover": "./images/covers/echame-la-culpa.jpg",
+            "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+            "id": 3
+          },
+          {
+            "title": "Mi Gente",
+            "author": "J Bavil",
+            "type": "video",
+            "cover": "./images/covers/mi-gente.jpg",
+            "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+            "id": 2
+          },
+          {
+            "title": "Felices los 4",
+            "author": "Maluma",
+            "type": "video",
+            "cover": "./images/covers/felices.jpg",
+            "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+            "id": 4
+          },
+          {
+            "title": "Me Rehúso",
+            "author": "Danny Ocean",
+            "type": "video",
+            "cover": "./images/covers/rehuso.jpg",
+            "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+            "id": 5
+          }
+        ]
+      }
+    ]
+  }
